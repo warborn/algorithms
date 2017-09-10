@@ -1,11 +1,7 @@
 # Use of Divide & Conquer technique
-
 def sum(list)
-  if list.empty?
-    return 0
-  else
-    list[0] + sum(list.slice(1, list.length - 1))
-  end
+  return 0 if list.empty?
+  list[0] + sum(list[1..-1])
 end
 
 puts sum([1, 2, 3, 4]) # => 10
