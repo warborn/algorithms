@@ -6,3 +6,4 @@ Here you can find the implementation of data structures and algorithms that i've
 
 ## List of Resources
 - [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+- [Cracking the Coding Interview [6th Edition]](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
